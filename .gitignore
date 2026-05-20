@@ -1,0 +1,8 @@
+# Docs配下の.jsonファイルを除外
+Docs/**/*.json
+
+# Docs配下の「ようこそ.md」を除外
+Docs/**/ようこそ.md
+
+# Obsidianの設定フォルダを除外（全階層）
+.obsidian/
