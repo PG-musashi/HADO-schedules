@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="700" viewBox="0 0 900 700">
+  <rect width="100%" height="100%" fill="#fff" />
+  <rect x="20" y="20" width="860" height="80" fill="#2b6cb0" rx="6" />
+  <text x="40" y="58" font-size="20" fill="#fff">チームページ（メンバー - 閲覧のみ）</text>
+
+  <!-- タブまたはバッジ示示 -->
+  <rect x="40" y="110" width="150" height="35" fill="#cbd5e0" rx="4" />
+  <text x="55" y="135" font-size="13" fill="#2d3748">閲覧モード</text>
+
+  <!-- チーム概要 -->
+  <rect x="40" y="160" width="820" height="120" fill="#f7fafc" stroke="#e2e8f0" rx="6" />
+  <text x="60" y="185" font-size="14" fill="#2d3748">チーム概要（読取専用）</text>
+  <text x="60" y="210" font-size="12" fill="#4a5568">名前: チームA</text>
+  <text x="60" y="235" font-size="12" fill="#4a5568">リーダー: 田中太郎</text>
+  <text x="60" y="260" font-size="12" fill="#4a5568">メンバー数: 5 / 10</text>
+
+  <!-- メンバー一覧 -->
+  <rect x="40" y="300" width="400" height="170" fill="#f7fafc" stroke="#e2e8f0" rx="6" />
+  <text x="60" y="325" font-size="14" fill="#2d3748">メンバー一覧（読取専用）</text>
+  <text x="60" y="350" font-size="12" fill="#4a5568">田中太郎（リーダー）</text>
+  <text x="60" y="375" font-size="12" fill="#4a5568">佐藤次郎</text>
+  <text x="60" y="400" font-size="12" fill="#4a5568">鈴木三郎</text>
+
+  <!-- 予約一覧 -->
+  <rect x="460" y="300" width="400" height="170" fill="#f7fafc" stroke="#e2e8f0" rx="6" />
+  <text x="480" y="325" font-size="14" fill="#2d3748">チーム予約一覧</text>
+  <text x="480" y="350" font-size="12" fill="#4a5568">5/31 10:30 - 12:00 コート1</text>
+  <text x="480" y="375" font-size="12" fill="#4a5568">6/5 14:00 - 15:30 コート2</text>
+
+  <!-- 参加ボタン -->
+  <rect x="40" y="490" width="200" height="40" fill="#3182ce" rx="6" />
+  <text x="95" y="517" font-size="14" fill="#fff">予約に参加申請</text>
+
+  <!-- 説明 -->
+  <rect x="40" y="550" width="820" height="120" fill="#edf2f7" stroke="#cbd5e0" rx="6" />
+  <text x="60" y="575" font-size="13" fill="#2d3748">メンバーは以下が可能です:</text>
+  <text x="60" y="600" font-size="12" fill="#4a5568">• チーム情報を確認（編集不可）</text>
+  <text x="60" y="620" font-size="12" fill="#4a5568">• メンバー一覧を確認</text>
+  <text x="60" y="640" font-size="12" fill="#4a5568">• チーム予約に参加申請</text>
+</svg>
