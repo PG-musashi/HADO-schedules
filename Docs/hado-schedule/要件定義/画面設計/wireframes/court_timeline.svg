@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+  <rect width="100%" height="100%" fill="#ffffff" />
+  <rect x="20" y="20" width="1160" height="80" fill="#2b6cb0" rx="6" />
+  <text x="40" y="58" font-size="20" fill="#fff">拠点詳細 - コートタイムライン</text>
+
+  <!-- 左コートリスト -->
+  <rect x="20" y="120" width="220" height="540" fill="#f7fafc" stroke="#e2e8f0" />
+  <text x="40" y="150" font-size="14" fill="#2d3748">コートリスト（同期スクロール）</text>
+
+  <!-- タイムラインエリア -->
+  <rect x="260" y="120" width="920" height="540" fill="#fff" stroke="#e2e8f0" />
+  <text x="280" y="150" font-size="14" fill="#2d3748">横軸：10:00〜22:00（30分刻み）</text>
+
+  <!-- サンプル予約ブロック -->
+  <rect x="300" y="200" width="160" height="60" fill="#f6ad55" rx="6" />
+  <text x="310" y="235" font-size="12" fill="#1a202c">チーム予約 A（10:30-12:00）</text>
+
+  <!-- 予約詳細スライドパネル -->
+  <rect x="980" y="160" width="200" height="300" fill="#edf2f7" stroke="#cbd5e0" />
+  <text x="994" y="190" font-size="14" fill="#2d3748">予約詳細（スライド）</text>
+</svg>

@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="800" viewBox="0 0 900 800">
+  <rect width="100%" height="100%" fill="#fff" />
+  <rect x="20" y="20" width="860" height="80" fill="#2b6cb0" rx="6" />
+  <text x="40" y="58" font-size="20" fill="#fff">チームページ（チームリーダー - 編集・管理）</text>
+
+  <!-- タブまたはバッジ表示 -->
+  <rect x="40" y="110" width="150" height="35" fill="#48bb78" rx="4" />
+  <text x="55" y="135" font-size="13" fill="#fff">管理モード</text>
+
+  <!-- チーム概要（編集可） -->
+  <rect x="40" y="160" width="820" height="130" fill="#f7fafc" stroke="#e2e8f0" rx="6" />
+  <text x="60" y="185" font-size="14" fill="#2d3748">チーム概要（編集可）</text>
+  <rect x="60" y="200" width="300" height="30" fill="#fff" stroke="#cbd5e0" />
+  <text x="70" y="222" font-size="12" fill="#718096">チーム名</text>
+  <rect x="60" y="240" width="300" height="30" fill="#fff" stroke="#cbd5e0" />
+  <text x="70" y="262" font-size="12" fill="#718096">説明</text>
+  <rect x="380" y="200" width="100" height="70" fill="#e2e8f0" stroke="#cbd5e0" />
+  <text x="395" y="225" font-size="11" fill="#4a5568">チーム画像</text>
+
+  <!-- メンバー管理 -->
+  <rect x="40" y="310" width="400" height="200" fill="#f7fafc" stroke="#e2e8f0" rx="6" />
+  <text x="60" y="335" font-size="14" fill="#2d3748">メンバー管理</text>
+  <text x="60" y="360" font-size="12" fill="#4a5568">田中太郎（リーダー）</text>
+  <text x="60" y="385" font-size="12" fill="#4a5568">佐藤次郎 <button style="font-size:11px">削除</button></text>
+  <text x="60" y="410" font-size="12" fill="#4a5568">鈴木三郎 <button style="font-size:11px">削除</button></text>
+  <text x="60" y="440" font-size="12" fill="#2d3748">申請待ちメンバー:</text>
+  <text x="60" y="465" font-size="12" fill="#ed8936">高橋四郎 <button style="font-size:11px">承認</button> <button style="font-size:11px">却下</button></text>
+  <text x="60" y="490" font-size="12" fill="#ed8936">松本五郎 <button style="font-size:11px">承認</button> <button style="font-size:11px">却下</button></text>
+
+  <!-- チーム予約管理 -->
+  <rect x="460" y="310" width="400" height="200" fill="#f7fafc" stroke="#e2e8f0" rx="6" />
+  <text x="480" y="335" font-size="14" fill="#2d3748">チーム予約管理</text>
+  <text x="480" y="360" font-size="12" fill="#4a5568">5/31 10:30 - 12:00 コート1 <button style="font-size:11px">編集</button></text>
+  <text x="480" y="385" font-size="12" fill="#4a5568">6/5 14:00 - 15:30 コート2 <button style="font-size:11px">編集</button></text>
+  <rect x="480" y="410" width="140" height="35" fill="#48bb78" rx="4" />
+  <text x="503" y="437" font-size="12" fill="#fff">新規予約作成</text>
+
+  <!-- アクションボタン -->
+  <rect x="40" y="530" width="180" height="40" fill="#48bb78" rx="6" />
+  <text x="85" y="557" font-size="14" fill="#fff">変更を保存</text>
+
+  <!-- 説明 -->
+  <rect x="40" y="590" width="820" height="180" fill="#edf2f7" stroke="#cbd5e0" rx="6" />
+  <text x="60" y="615" font-size="13" fill="#2d3748">チームリーダーは以下が可能です:</text>
+  <text x="60" y="640" font-size="12" fill="#4a5568">• チーム情報を編集（名前・説明・画像）</text>
+  <text x="60" y="660" font-size="12" fill="#4a5568">• メンバー申請を承認・却下</text>
+  <text x="60" y="680" font-size="12" fill="#4a5568">• メンバーを削除</text>
+  <text x="60" y="700" font-size="12" fill="#4a5568">• チーム予約を作成・編集・削除</text>
+  <text x="60" y="720" font-size="12" fill="#4a5568">• システム管理者の承認待ちステータスを確認</text>
+</svg>

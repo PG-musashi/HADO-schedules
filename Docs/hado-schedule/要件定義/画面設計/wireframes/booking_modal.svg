@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="100%" height="100%" fill="#fff" />
+  <rect x="120" y="80" width="560" height="440" fill="#f7fafc" stroke="#cbd5e0" rx="8" />
+  <text x="160" y="120" font-size="18" fill="#2d3748">予約作成（モーダル）</text>
+
+  <text x="150" y="160" font-size="14" fill="#4a5568">ステップ1: 種別（個人/チーム/イベント/店舗）</text>
+  <rect x="150" y="170" width="500" height="36" fill="#fff" stroke="#e2e8f0" />
+
+  <text x="150" y="220" font-size="14" fill="#4a5568">ステップ2: 日時・コート選択</text>
+  <rect x="150" y="230" width="500" height="36" fill="#fff" stroke="#e2e8f0" />
+
+  <text x="150" y="280" font-size="14" fill="#4a5568">ステップ3: 定員・チーム枠・キャンセルポリシー</text>
+  <rect x="150" y="290" width="500" height="80" fill="#fff" stroke="#e2e8f0" />
+
+  <rect x="520" y="400" width="130" height="40" fill="#48bb78" rx="6" />
+  <text x="540" y="428" font-size="14" fill="#fff">確認して保存</text>
+</svg>
